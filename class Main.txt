@@ -1,0 +1,18 @@
+class Main
+{
+	{
+	String name="APPLE iphone 14 (Blue, 128)";
+	int price=79900;
+	double discont=(price*14)/100;
+	double cashback=(price*5)/100;
+	int packing_fee=99;
+	System.out.println("price : "+ 79900);
+	double discount _price=price-discount;
+	System.out.println("dicount price: " + discount_price);
+	System.out.println("cashback : "+ cashback);
+	double after_cashback=(dicount_price-cashback);
+	System.out.println("after_cashbook : " + after_cashbook);	
+	double final_price= (after_cashback+packing_fee);
+	System.out.println("final price : " + final_price);	
+	}
+}
