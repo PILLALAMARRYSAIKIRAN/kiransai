@@ -17,3 +17,37 @@ class Demo_3dArr {
                 for(int k=0;k<2;k++){
           
         System.out.println("arr["+i+"]["+j+"]["+k+"]="+arr[i][j][k]);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
