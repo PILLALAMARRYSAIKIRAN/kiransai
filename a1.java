@@ -9,3 +9,7 @@ public class Sai
 	    System.out.println(area_of_circumference);
 	}
 }
+double area_of_circle=pie*radius*radius;
+	    System.out.println(area_of_circle+"mm2");
+	    double area_of_circumference=2*pie*radius;
+	    System.out.println(area_of_circumference);
